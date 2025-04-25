@@ -41,5 +41,9 @@ class WalletPaymentMethodType
     const BALANCE_ACCOUNT = 'BALANCE_ACCOUNT';
 
     const APPLEPAY = "APPLEPAY";
+    const PROMPTPAY = 'PROMPTPAY';
+    const MOMO = 'MOMO';
+    const BOOST = 'BOOST';
+    const QRIS = 'QRIS';
 
 }
