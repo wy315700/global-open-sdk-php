@@ -46,4 +46,7 @@ class WalletPaymentMethodType
     const BOOST = 'BOOST';
     const QRIS = 'QRIS';
 
+    const PIX = 'PIX';
+    const MERCADOPAGO_BR = 'MERCADOPAGO_BR';
+
 }
