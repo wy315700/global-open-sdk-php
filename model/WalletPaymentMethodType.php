@@ -49,5 +49,5 @@ class WalletPaymentMethodType
     const PIX = 'PIX';
     const MERCADOPAGO_BR = 'MERCADOPAGO_BR';
     const CARD = 'CARD';
-
+    const GOOGLEPAY = "GOOGLEPAY";
 }
